@@ -7,9 +7,9 @@ I'm currently an computer engineering student, always learning new languages to 
 
 
 <div align="center">
-  <a href="https://github.com/MalingasCUMBANE">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MalingasCUMBANE&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalingasCUMBANE&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/EACUAMBA">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EACUAMBA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EACUAMBA&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
